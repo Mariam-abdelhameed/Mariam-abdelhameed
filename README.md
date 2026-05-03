@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Mariam-abdelhameed/Mariam-abdelhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hellloooz 👀  Mariam here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Future Front-End Developer  
+🚀 Learning, trying, improving  
+✨ Turning ideas into something real  
+
+---
+
+## ⚡ Skills:
+HTML • CSS • JavaScript  
+
+---
+
+## 🔥 Goals:
+- Build clean & smart websites  
+- Level up step by step  
+- Make my work speak for me
